@@ -1,0 +1,29 @@
+#url, #tinyUrl {
+    width: 300px;
+}
+
+#urlForm, #infoForm, #viewContainer, #redirectForm {
+    margin-top: 150px;
+    text-align: center;
+}
+
+#navigation {
+    padding: 0;
+    margin: 0;
+}
+
+#navigation li  {
+    display: inline-block;
+}
+
+#navigationContainer {
+    text-align: center;
+}
+
+#urlFormTitle, #redirectFormTitle, #viewContainer {
+    margin-bottom: 10px;
+}
+
+a {
+    color: blue;
+}
